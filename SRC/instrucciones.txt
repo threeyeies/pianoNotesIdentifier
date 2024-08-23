@@ -1,0 +1,20 @@
+1) Abrir Matlab
+2) Ejecutar notasMusicales.m mediante RUN
+3) Dar clic en Iniciar Emtrenamiento
+4) Esperar a que termine hasta nota SOL
+5) Dar clic en Comenzar detección
+6) Se muestran resultados
+
+
+
+Nota: Si se requiere ejecutar, una vez descargado, modificar la ruta_base en la linea 105 
+del archivo notasMusicales.m. La ruta base es la carpeta que contiene a las dos carpetas:
+Notas musicales y Screenshots de funcionamiento de esta manera...
+
+                  ruta_base="C:\Usuario\ProyectoAlumnox\";
+
+
+De manera que:
+- Carpeta codigo: C:\Usuario\ProyectoAlumnox\Notas musicales\
+- Carpeta capturas: C:\Usuario\ProyectoAlumnox\Screenshots de funcionamiento\
+
